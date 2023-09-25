@@ -1,0 +1,29 @@
+@media (max-width: 992px) {
+    .principal{
+        background-image: url(https://www.cnet.com/a/img/resize/a8e5c5c1f11bbbc5a2677c84a8122d115088b82a/hub/2022/09/14/72faefe8-c3d4-40d3-830a-7a4b45ab1d2e/iphone-14-pro-iphone-14-8712.jpg?auto=webp&width=1200);
+        background-repeat: no-repeat;
+    }
+}
+
+@media (min-width: 992px) {
+    .principal{
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZcwuQiMJYBPC1LUq5p5YNrB2MAMEOJcxOFazp_ZjNvc7cdBIWEWnjkZ7YR5k5HqcVG7I&usqp=CAU);
+        background-repeat: no-repeat;
+    }
+}
+
+@media (min-width: 1200px) {
+    .principal{
+        background-image: url(https://www.tecmobile.com.br/wp-content/uploads/2022/01/apple-imac-27.png);
+        background-repeat: no-repeat;
+    }
+}
+
+@media (min-width: 1400px) {
+    .principal{
+        background-image: url(https://images.kabum.com.br/produtos/fotos/381278/smart-tv-multilaser-32-hd-hdmi-usb-wifi-e-android-integrado-google-assistente-tl042_1663084561_original.jpg);
+        background-repeat: no-repeat;
+    }
+
+}
+
